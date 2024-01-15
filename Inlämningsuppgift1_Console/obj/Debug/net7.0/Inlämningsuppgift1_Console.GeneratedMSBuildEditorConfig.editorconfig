@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Inlämningsuppgift1_Console
+build_property.ProjectDir = /Users/kibba/Library/Mobile Documents/com~apple~CloudDocs/Dokument/Studier/LTU/Introduktion till programmering och C# (L0002B)/Inlämningsuppgift 1/Console/Inlämningsuppgift1_Console/
